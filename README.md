@@ -1,2 +1,2 @@
-# romanize-names-desktop
-Romanizing Chinese names on Desktop 
+# Romanize Chinese Names Desktop Application
+Romanizing Chinese names on Desktop
